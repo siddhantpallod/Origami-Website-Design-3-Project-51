@@ -1,0 +1,32 @@
+h1 {
+    color: blueviolet; 
+    margin-left: 370px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.header {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+
+.grid {
+    background-color : rgb(255, 176, 7);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.grid img{
+    border: solid;
+    border-radius: 50px;
+    border-color : #f23456;
+}
+
+.item {
+    margin-right: 90px;
+    padding-left: 80px;
+}
